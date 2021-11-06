@@ -1,16 +1,19 @@
-### Hi there 👋
+#**Hiiiii all !!!** 👋
 
-<!--
-**Kanekift/Kanekift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##**📔Something about me**
+###>- 💁‍♂️full name: Nguyễn Trần Hoài Bão
+###>- 🍰Birthday: 09/09/2003
+###>- 📲Phone number: 0388565194
+###>- 🏫Studying at University of Information Technology(UIT)
 
-Here are some ideas to get you started:
+##**Favorite:**
+###Game - Music - Sleeping :v
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##**Contact me:**
+###>[Facebook](https://www.facebook.com/bao992003/)
+###>Zalo:  0817884176
+###>Email: 21520618@gm.uit.edu.vn
+
+
+
+
